@@ -25,3 +25,8 @@ including zones and streets, number of crashes, crash rate, speed limit, mph ove
 shows that traffic accidents had gradually increased up until 2019, but dipped in 2020/2021, most likely due to the pandemic. 
 
 At this point, with the given data, I intend to conduct some geospatial analysis to see which areas in Boston are most dangerous for pedestrains. 
+
+-- 08/30/2022 -- 
+
+
+Still chasing public records request. 
