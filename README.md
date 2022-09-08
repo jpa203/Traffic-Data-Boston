@@ -24,5 +24,5 @@ including zones and streets, number of crashes, crash rate, speed limit, mph ove
 2) Analyze Boston also has a database (found using Dataset Search) with traffic accidents dating from 2015 with coordinates. A preliminary SQL analysis 
 shows that traffic accidents had gradually increased up until 2019, but dipped in 2020/2021, most likely due to the pandemic. 
 
-3) Public Records Requested was submitted as a pdf file with over 6,000 pages. Using tabula-py, I managed to convert the pdf text to a csv file. I then cleaned the data in Excel (deleting duplicates etc.)
+3) Public Records Requested was submitted as a pdf file with over 6,000 pages. Using tabula-py, I managed to convert the pdf text to a csv file. I then cleaned the data in Excel (deleting duplicates etc.) (https://github.com/jpa203/Traffic-Data-Boston/blob/main/pdf_to_csv.py)
 
